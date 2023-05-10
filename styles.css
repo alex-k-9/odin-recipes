@@ -25,3 +25,19 @@ body {
     max-width: 50%;
     height: auto;
 }
+
+.ingredients {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    padding-top: 0;
+    padding-right: 5px;
+    padding-bottom: 1px;
+}
+
+.ingredients-header {
+    text-align: center;
+    display: block;
+    padding: 0;
+}
